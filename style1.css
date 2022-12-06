@@ -6,6 +6,7 @@ ul {
     background-color: #E7E7E7;
 
 }
+
 li {
     float: left;
 
@@ -16,7 +17,7 @@ li a {
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 16px;
-  
+
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -24,8 +25,39 @@ li a:hover {
     background-color: #111;
 }
 
-.d-flex1{
+.d-flex1 {
     padding-top: 10px;
     float: right;
     margin-right: 2%;
+}
+
+
+.copyright {
+    padding: 28px 10px;
+
+    background-color: #000000;
+
+}
+
+.copyright span,
+.copyright a {
+    color: #000000;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+    text-align: center;
+}
+
+.copyright a:hover {
+    color: #007bff;
+}
+
+.copyright-menu ul {
+    text-align: center;
+    margin: 0;
+}
+
+.copyright-menu li {
+    display: inline-block;
+    padding-left: 20px;
 }
