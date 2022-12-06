@@ -4,21 +4,16 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #E7E7E7;
-    
-
 }
 
 li {
     float: left;
-
 }
 
 li a {
     display: block;
     color: rgb(0, 0, 0);
-    
     padding: 10px;
-
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -26,19 +21,14 @@ li a:hover {
     background-color: #111;
 }
 
-
-
 .d-flex1{
     padding-top: 5px;
     float: right;
-    
 }
 
 .copyright {
     padding: 28px 10px;
-
     background-color: #000000;
-
 }
 
 .copyright span,
