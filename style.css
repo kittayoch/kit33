@@ -16,7 +16,7 @@ li a {
     display: block;
     color: rgb(0, 0, 0);
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px;
     text-decoration: none;
 }
 
@@ -26,9 +26,8 @@ li a:hover {
 }
 
 .d-flex{
-    padding-top: 10px;
+    padding-top: 5px;
     float: right;
-    margin-right: 2%;
 }
 
 p {
